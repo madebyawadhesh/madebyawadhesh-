@@ -1,4 +1,12 @@
-<p align="center">
+<<p align="center">
+  <img src="https://YOUR-GIF-LINK-HERE.gif" width="600" alt="Awadhesh Mishra Animated Banner"/>
+</p>
+
+# Hi, I'm **Awadhesh Mishra** 👋
+
+Welcome to my GitHub profile! I’m passionate about coding, learning new technologies, and building projects that solve real problems.
+
+...p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="600" alt="Awadhesh Mishra Coding Banner"/>
 </p>
 
