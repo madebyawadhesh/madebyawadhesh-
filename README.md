@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Awadhesh</h1>
-<h3 align="center">Learning Python | Building Myself Slowly 🌱</h3>
+<h3 align="center">Learning Python | Building Myself Slowly 🌱</<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Python-blue" />
+  <img src="https://img.shields.io/badge/Learning-Everyday-green" />
+  <img src="https://img.shields.io/badge/Mindset-Sabra%20%2B%20Mehnat-yellow" />
+</p>
 
 ---
 
