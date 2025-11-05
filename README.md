@@ -1,38 +1,32 @@
 <h1 align="center">Hi 👋, I'm Awadhesh</h1>
-<h3 align="center">Python Learner | Beginner Programmer | Exploring Coding Everyday 🚀</h3>
+<h3 align="center">Learning Python | Building Myself Slowly 🌱</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **Python**
-- 📱 I code using **Mobile (iPhone)** with **Pyto**
-- 🎯 Goal: Become better step-by-step
+### 🌿 Quote
+> **"Sabra + Mehnat = Result"**  
+> Slow progress is still progress ✨
 
 ---
 
-### 💻 Tools & Skills
-- Python (Basics)
-- GitHub (Beginner)
-- Mobile Coding Setup
+### 🛠️ Tools I Use
+- Python on **iPhone (Pyto App)**
+- GitHub Mobile
+- Learning Step by Step
 
 ---
 
-### ⚡ Motivation
-> "Ek-ek step se bhi badi cheeze ban jaati hain. Bas rukna mat." 💯
-
----
-
-### 📬 Connect With Me
-**Instagram:** *(If you want, I will add link here)*  
-**YouTube:** *(If you want to start a channel, I will design banner)*  
-
----
-
-### 📊 GitHub Stats
+### 🔥 My Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madebyawadhesh&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madebyawadhesh&show_icons=true&theme=calm" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebyawadhesh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebyawadhesh&theme=calm" />
 </p>
+
+---
+
+### 🧿 Reminder for Myself
+**Rukna nahi.**  
+Aaj thoda, kal thoda — par **roz kuch na kuch**.
