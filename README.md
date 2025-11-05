@@ -1,38 +1,45 @@
-<h1 align="center">Hi 👋, I'm Awadhesh</h1>
-<h3 align="center">Learning Python | Building Myself Slowly 🌱</<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Python-blue" />
-  <img src="https://img.shields.io/badge/Learning-Everyday-green" />
-  <img src="https://img.shields.io/badge/Mindset-Sabra%20%2B%20Mehnat-yellow" />
-</p>
+# Hi, I'm Awadhesh Mishra 👋
+
+Welcome to my GitHub profile! I’m passionate about coding, learning new technologies, and building projects that solve real problems.
 
 ---
 
-### 🌿 Quote
-> **"Sabra + Mehnat = Result"**  
-> Slow progress is still progress ✨
+## 🔹 About Me
+- 🔭 I’m currently learning **Python, HTML, CSS, Git**  
+- 🌱 Exploring **Web Development** & **Automation Projects**  
+- 💡 Love creating mini projects to practice and improve skills  
+- 📫 Reach me at: [ankushmishra9005703684@gmail.com](mailto:ankushmishra9005703684@gmail.com)
 
 ---
 
-### 🛠️ Tools I Use
-- Python on **iPhone (Pyto App)**
-- GitHub Mobile
-- Learning Step by Step
+## 🛠️ Skills
+**Languages:** Python, HTML, CSS, JavaScript  
+**Tools & Technologies:** Git, GitHub, VS Code, Terminal  
 
 ---
 
-### 🔥 My Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madebyawadhesh&show_icons=true&theme=calm" />
-</p>
+## 🚀 Projects
+Here are some of my projects:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebyawadhesh&theme=calm" />
-</p>
+| Project | Description |
+|---------|-------------|
+| **[Project 1 Name](link-to-repo)** | Short description of project |
+| **[Project 2 Name](link-to-repo)** | Short description of project |
+*(Add more projects as you create them)*
 
 ---
 
-### 🧿 Reminder for Myself
-**Rukna nahi.**  
-Aaj thoda, kal thoda — par **roz kuch na <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madebyawadhesh&theme=calm&hide_border=true" />
-</p>
+## 📊 GitHub Stats
+![Awadhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=madebyawadhesh&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyawadhesh&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_.ankushmishra._)](https://instagram.com/_.ankushmishra._)  
+
+---
+
+⭐ Fun Fact: I enjoy learning new tech and sharing my knowledge with the community!
