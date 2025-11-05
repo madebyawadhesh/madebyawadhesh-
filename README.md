@@ -33,4 +33,6 @@
 
 ### 🧿 Reminder for Myself
 **Rukna nahi.**  
-Aaj thoda, kal thoda — par **roz kuch na kuch**.
+Aaj thoda, kal thoda — par **roz kuch na <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madebyawadhesh&theme=calm&hide_border=true" />
+</p>
